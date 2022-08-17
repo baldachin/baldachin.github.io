@@ -1,6 +1,5 @@
 # 被制裁的俄罗斯寡头钻了英国企业透明法漏洞
 
-
 #  被制裁的俄罗斯寡头如何钻了英国法律的漏洞
 
   * 奥利佛（James Oliver）、斯泰里亚诺（ Nassos Stylianou）、达尔格伦（ Will Dahlgreen）、斯万（ Steve Swann） 

@@ -1,6 +1,5 @@
 # “媲美地中海饮食” 北欧饮食你了解多少？
 
-
 #  北欧饮食：爱好者称其健康益处堪比地中海饮食
 
   * 杜安·梅勒和艾卡维·格奥尔古索普鲁(DuaneMellorandEkaviGeorgousopoulou) 
