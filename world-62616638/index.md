@@ -2,7 +2,7 @@
 
 #  印尼总统称中俄领导人都将参加G20 或成习近平“二十大”后首次出访
 
-2022年8月20日上午10点58分
+2022年8月20日
 
 ![Vladimir Putin and Xi Jinping shaking hands](_126376260_b9eb18973e0a242faef8c221b28c8913dc8b661c.jpg)
 
