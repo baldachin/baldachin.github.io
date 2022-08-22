@@ -2,7 +2,6 @@
 
 #  环台军演后续：日本考虑部署射程1000公里的远程导弹，可覆盖中国朝鲜领土
 
-2022年8月21日
 
 ![FILE PHOTO: Japan"s Prime Minister Fumio Kishida walks past a Japan Ground Self-Defense Force \(JGSDF\) Type 19 155 mm wheeled self-propelled howitzer and a Type 12 surface-to-ship missile as he inspects equipment during a review at Japan Ground Self-Defense Force \(JGSDF\) Camp Asaka in Tokyo, Japan, November 27, 2021.](_126395423_mediaitem126395419.jpg)
 
