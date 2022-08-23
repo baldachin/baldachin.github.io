@@ -1,11 +1,10 @@
-# 欧洲大旱福兮祸兮 河底“不详之石”和各种秘密重见天日
+# 欧洲大旱福兮祸兮 河底“不祥之石”和各种秘密重见天日
 
-#  欧洲大旱使河床湖底年代久远的秘密开始浮出水面
+#  欧洲大旱 河床湖底年代久远的秘密纷纷浮出水面
 
   * 埃尔莎·梅什曼（Elsa Maishman） 
   * BBC 新闻 
 
-2 小时前
 
 ![欧洲大旱莱茵河石块](_126392277_mediaitem126392276.jpg)
 
@@ -97,11 +96,9 @@
 
 那里 1940年代建水库，整个村庄都成了库区，没入水中。
 
-![Ladybower Reservoir](_126319835_derwentvillage.jpg)
+![水库](_126319835_derwentvillage.jpg)
 
 > 图像来源，  Terry Westerman
->
-> 图像加注文字，The Derwent church spire was originally left intact as a memorial but later demolished
 
 康沃尔郡的科利福德湖水库干涸，露出一片古树残骸。
 
@@ -115,7 +112,7 @@
 
 英格兰西南部斯温顿的利迪亚德公园里出现了一些 17 世纪花园的痕迹，因为持续高温下绿茵草坪枯死，暴露出地面的印痕。
 
-附近的朗列特庄园（Longleat）也出现了类似的“幽灵花园”。
+附近的郎列特庄园（Longleat）也出现了类似的“幽灵花园”。
 
 ![庄园鸟瞰](_126348511_lydiardphoto.jpg)
 
