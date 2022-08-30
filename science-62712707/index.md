@@ -5,7 +5,6 @@
   * 扎伊尔·葛威特（Zaria Gorvett） 
   * BBC Future 
 
-9 小时前
 
 ![一旦找到失踪的帕洛马雷斯核弹，拆弹专家就必须想办法拆掉引信。\(Credit:GettyImages\)](_126250111_gettyimages-514870746.jpg)
 
