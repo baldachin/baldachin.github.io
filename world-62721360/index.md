@@ -3,8 +3,6 @@
 #  乌克兰战争：乌军向被占南部领土发起反攻，战场僵局有可能打破
 
 
-最近更新： 7 小时前
-
 ![Image shows Ukraine artilleryman](_126477613_gettyimages-1242009791.jpg)
 
 > 图像来源，  Getty Images
