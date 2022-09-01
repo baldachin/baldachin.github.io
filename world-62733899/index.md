@@ -3,7 +3,6 @@
 #  戈尔巴乔夫：苏联最后一任领导人病逝，联合国秘书长称他“改变了历史进程” ，普京表达“最深切哀悼”
 
 
-
 ![Mikhail Gorbachev](_126534928_gettyimages-458615866.jpg)
 
 > 图像来源，  Getty Images
