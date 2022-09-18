@@ -5,7 +5,6 @@
   * 加里·奥多诺霍(GaryO'Donoghue) 
   * BBC新闻部驻华盛顿记者 
 
-8 小时前
 
 ![拜登和特拉斯](_126624689_truss_biden_comp976.jpg)
 
