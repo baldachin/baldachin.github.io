@@ -2,7 +2,6 @@
 
 #  英国国王查尔斯三世：英国君主有什么职能？
 
-7 小时前
 
 ![Charles III with his mother Queen Elizabeth II during the Platinum Jubilee Trooping of the Colour ceremony in June 2022](_126653873_gettyimages-1404406465.jpg)
 
