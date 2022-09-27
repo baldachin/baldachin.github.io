@@ -5,7 +5,6 @@
   * 吉娜·杜鲁门 
   * （Geena Truman） 
 
-8 小时前
 
 ![山谷（Credit: Danm/Getty Images）](_126498908_ec124554-730f-4d24-ad65-37c049d2c9f2.jpg)
 
