@@ -3,7 +3,6 @@
 #  印尼足球场发生惨痛踩踏事故 已导致至少120 余人死亡
 
 
-
 ![A group of people carry a man after a football match](_126925002_mediaitem126925001.jpg)
 
 > 图像来源，  AFP via Getty Images
@@ -24,11 +23,6 @@
 
 东爪哇警察负责人阿芬塔(NicoAfinta)表示，警方发射了催泪弹，随后发生了群体踩踏，有人窒息。
 
-![Police officers run as they try to stop football fans from entering the pitch](_126925204_ece5273f-8ff6-461e-999f-73fd7bcab369.jpg)
-
-> 图像来源，  EPA
->
-> 图像加注文字，警方试图阻止冲入球场的球迷。
 
 死者中有两名警察，约有30多人当场死亡，其余在医院去世。
 
