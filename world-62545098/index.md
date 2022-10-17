@@ -2,6 +2,7 @@
 
 #  美国和台湾：继佩洛西之后又一美国国会团队访台，解放军再次举行台海军演
 
+2022年8月15日
 
 ![Taiwan's vice foreign minister stands in front of an aeroplane with members of the US Congress](_126313443_7b01e3f0-4147-4869-8e7b-cec358cc2f61.jpg)
 
