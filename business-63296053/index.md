@@ -5,7 +5,6 @@
   * 费尔·默瑟（Phil Mercer） 
   * BBC记者，发自悉尼 
 
-45 分钟前
 
 ![The Arafura Nolan's project will be built in central Australia, north of Alice Springs](_126659193_nolansproject.jpg)
 

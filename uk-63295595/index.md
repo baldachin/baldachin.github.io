@@ -6,7 +6,6 @@
   * BBC中文特约撰稿人 
 
 
-最近更新： 45 分钟前
 
 ![英国当局呼吁目击者提供片段，协助警方调查。](_127232767_manchester_consulate_chasernews.jpg)
 
