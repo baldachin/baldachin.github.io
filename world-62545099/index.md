@@ -2,7 +2,6 @@
 
 #  普京金正恩互相致信关键词：同志友谊，先进武器，乌克兰
 
-2022年8月16日
 
 ![North Korea leader Kim Jong Un \(L\) attends a meeting with Russian President Vladimir Putin \(R\) in Vladivostok, Russia, on April, 25, 2019.](_126250651_gettyimages-1139196807.jpg)
 
