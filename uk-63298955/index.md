@@ -5,7 +5,6 @@
   * 陈炜斯和弗雷泽（Yvette Tan 和 Simon Fraser） 
   * BBC 新闻 
 
-7 小时前
 
 ![英国当局呼吁目击者提供片段，协助警方调查。](_127232767_manchester_consulate_chasernews.jpg)
 

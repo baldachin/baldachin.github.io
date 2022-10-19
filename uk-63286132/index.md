@@ -5,7 +5,6 @@
   * 阿莫·拉加尔（Amol Rajan) 
   * BBC 媒体事务编辑 
 
-9 小时前
 
 ![BBC广播](_127174252_oldbbcimage.jpg)
 
