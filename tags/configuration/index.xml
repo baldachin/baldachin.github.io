@@ -1,8 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>配置 - 标签 - 圆勇修行记</title>
-        <link>https://baldachin.github.io/tags/configuration/</link>
-        <description>配置 - 标签 - 圆勇修行记</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>baldachin@outlook.com (baldachin)</managingEditor>
-            <webMaster>baldachin@outlook.com (baldachin)</webMaster><copyright>CC-BY</copyright><atom:link href="https://baldachin.github.io/tags/configuration/" rel="self" type="application/rss+xml" /></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>配置 - 标签 - 圆勇修行记</title><link>https://baldachin.github.io/tags/configuration/</link><description>配置 - 标签 - 圆勇修行记</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>baldachin@outlook.com (baldachin)</managingEditor><webMaster>baldachin@outlook.com (baldachin)</webMaster><copyright>CC-BY</copyright><atom:link href="https://baldachin.github.io/tags/configuration/" rel="self" type="application/rss+xml"/></channel></rss>
