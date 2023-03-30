@@ -1,4 +1,4 @@
-# 试用 chatGPT 有感
+# [Original] 试用 chatGPT 有感
 
 
 随着科技的发展 AI 仿佛突然获得生机，仅仅数年之间就从最简单的判断能力发展到生活的方方面面。最近最火的话题大约就是 openAI 的 chatGPT 了，许多人在网上晒出各式各样与 chatGPT 的对话展示 AI 的神奇。

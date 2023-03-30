@@ -1,4 +1,4 @@
-# 父亲的孤独和我丢失的情感
+# [Original] 父亲的孤独和我丢失的情感
 
 
 ![000037](https://baldachin-1304515178.cos.ap-beijing.myqcloud.com/assets/000037.JPG)

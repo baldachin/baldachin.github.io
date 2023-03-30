@@ -1,4 +1,4 @@
-# 父亲的全景照片
+# [Original] 父亲的全景照片
 
 
 ![000021 - 000022](https://baldachin-1304515178.cos.ap-beijing.myqcloud.com/assets/000015 - 000011_small.jpg)
