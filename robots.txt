@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://baldachin.github.io/sitemap.xml
+Sitemap: http://baldachin.github.io/sitemap.xml
