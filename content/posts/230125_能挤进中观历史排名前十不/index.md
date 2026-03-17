@@ -15,7 +15,6 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-place: "江西"
 cover:
     image: ""
     alt: ""
@@ -26,10 +25,10 @@ cover:
 
 ![](./assets/17698255278250.8467004817718131.jpg)
 
-LOOK——画牛出乳！
+LOOK——画牛出乳！ 
 
-就想问问
+就想问问 
 
-凭这张图
+凭这张图 
 
-能挤进中观历史排名前十不![](./assets/17698255278830.8738232386089912.png)
+能挤进中观历史排名前十不 ![](./assets/17698255278830.8738232386089912.png)

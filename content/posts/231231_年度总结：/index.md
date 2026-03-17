@@ -15,7 +15,6 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-place: "上海"
 cover:
     image: ""
     alt: ""
@@ -28,4 +27,4 @@ cover:
 
 **2023：活着；**
 
-** 2024：活下去！**
+**2024：活下去！**

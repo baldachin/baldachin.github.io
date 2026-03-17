@@ -15,7 +15,6 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-place: "上海"
 cover:
     image: ""
     alt: ""

@@ -1,7 +1,7 @@
 ---
 title: "江湖，创意无限……"
 date: "2022-09-18T12:00:00+08:00"
-author: "嘉祥观清"
+author: "释观清"
 tags: []
 draft: false
 hidemeta: false
@@ -15,7 +15,6 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-place: "上海"
 cover:
     image: ""
     alt: ""

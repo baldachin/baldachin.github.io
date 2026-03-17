@@ -1,7 +1,7 @@
 ---
 title: "庆祝国庆"
 date: "2023-10-01T12:00:00+08:00"
-author: "嘉祥观清"
+author: "释观清"
 tags: []
 draft: false
 hidemeta: false
@@ -15,7 +15,6 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-place: "江西"
 cover:
     image: ""
     alt: ""
