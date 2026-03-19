@@ -1,0 +1,37 @@
+{{- define "main" }}
+
+{{- if .Title }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+{{- end }}
+
+<ul class="terms-tags">
+    {{- $type := .Type }}
+    {{- /* 按数量从多到少排序 */}}
+    {{- range $key, $value := .Data.Terms.ByCount }}
+    {{- $name := .Name }}
+    {{- $count := .Count }}
+    {{- with site.GetPage (printf "/%s/%s" $type $name) }}
+    <li>
+        {{- /* 根据数量设置不同的class */}}
+        {{- $tagClass := "tag-count-low" }}
+        {{- if ge $count 20 }}{{ $tagClass = "tag-count-very-high" }}
+        {{- else if ge $count 10 }}{{ $tagClass = "tag-count-high" }}
+        {{- else if ge $count 5 }}{{ $tagClass = "tag-count-medium" }}
+        {{- else if ge $count 2 }}{{ $tagClass = "tag-count-low" }}
+        {{- end }}
+        <a href="{{ .Permalink }}" class="{{ $tagClass }}">
+            {{ .Name }}<span class="tag-count">{{ $count }}</span>
+        </a>
+    </li>
+    {{- end }}
+    {{- end }}
+</ul>
+
+{{- end }}{{/* end main */ -}}
